@@ -1,0 +1,348 @@
+Tile-based game Part 13: Map Obstacles - YouTube
+########:https://www.youtube.com/embed/vIT7P-RPJNo?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 9: Shields - YouTube
+########:https://www.youtube.com/embed/vvgWfNLgK9c?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 1: Setting up - YouTube
+########:https://www.youtube.com/embed/3UxnelT9aCo?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 4: Jumping - YouTube
+########:https://www.youtube.com/embed/G8pYfkIajE8?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 11: Character Animation (part 2) - YouTube
+########:https://www.youtube.com/embed/n4TQfKt4wpQ?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 4: Scrolling Map / Camera - YouTube
+########:https://www.youtube.com/embed/3zV2ewk-IGU?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 15: Powerups - YouTube
+########:https://www.youtube.com/embed/kCnAhasA1bs?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 6: Sprite Animation - YouTube
+########:https://www.youtube.com/embed/3Bk-Ny7WLzE?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 17: Tweening/Easing Animations - YouTube
+########:https://www.youtube.com/embed/5WWvqOgQTcY?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 11: Player Lives - YouTube
+########:https://www.youtube.com/embed/G5-4nV6LxgU?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 20: More Weapons - YouTube
+########:https://www.youtube.com/embed/xIcDqw35rz8?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 3: Gravity and Platforms - YouTube
+########:https://www.youtube.com/embed/pN9pBx5ln40?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 18: Scrolling Background - YouTube
+########:https://www.youtube.com/embed/i0PaigPo6KM?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 19: Wrapping Up - YouTube
+########:https://www.youtube.com/embed/-9bjlpaVQAA?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 8: Sound and Music - YouTube
+########:https://www.youtube.com/embed/abm1VwFxv9o?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 13: Improved Jumping - YouTube
+########:https://www.youtube.com/embed/9S7fWevICtY?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 12: Loading Tiled Maps - YouTube
+########:https://www.youtube.com/embed/QIXyj3WeyZM?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 9: Basic Shooting - YouTube
+########:https://www.youtube.com/embed/YfWh0WtwuWE?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 3: Smooth Movement - YouTube
+########:https://www.youtube.com/embed/pA7OABYHNDY?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 5: Player Graphics - YouTube
+########:https://www.youtube.com/embed/FVLRUmkV27Q?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 10: Player and Mob Health - YouTube
+########:https://www.youtube.com/embed/-9bXcSjuN28?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 18: Sound Effects - YouTube
+########:https://www.youtube.com/embed/vzJ0WG2LSYw?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 13: Powerups (part 2) - YouTube
+########:https://www.youtube.com/embed/y2w-116htIQ?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 10: Explosions - YouTube
+########:https://www.youtube.com/embed/AdG_ITCFHDI?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 15: Simple Visual Effects (and a bug fix!) - YouTube
+########:https://www.youtube.com/embed/ZapYMuV8f1g?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Game Development 1-2: Working with Sprites - YouTube
+########:https://www.youtube.com/embed/Eltz-XJMxuU?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 17: Using Collision Masks - YouTube
+########:https://www.youtube.com/embed/Dspz3kaTKUg?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 10: Character Animation (part 1) - YouTube
+########:https://www.youtube.com/embed/kuVsKUuVOwc?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 8: Saving High Score - YouTube
+########:https://www.youtube.com/embed/MFv1Ew_nGG0?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 12: Platform Graphics - YouTube
+########:https://www.youtube.com/embed/qnUVjACD3WM?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 22: Game Over - YouTube
+########:https://www.youtube.com/embed/DZYY9hCOxLQ?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 3: Collisions (and Bullets!) - YouTube
+########:https://www.youtube.com/embed/33g62PpFwsE?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 2: Enemy Sprites - YouTube
+########:https://www.youtube.com/embed/-5GNbL33hz0?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 8: Mob Movement - YouTube
+########:https://www.youtube.com/embed/SAbxZDBJX4E?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 7: Mobs - YouTube
+########:https://www.youtube.com/embed/gbRAqFl21SA?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 1: Setting Up - YouTube
+########:https://www.youtube.com/embed/uWvb3QzA48c?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 11: Tiled Map Editor - YouTube
+########:https://www.youtube.com/embed/Mr5l4U9S4kI?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 14: Game Over Screen - YouTube
+########:https://www.youtube.com/embed/Z2K2Yttvr5g?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 19: Pause Screen - YouTube
+########:https://www.youtube.com/embed/MJ2GLVA7kaU?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 16: Enemies - YouTube
+########:https://www.youtube.com/embed/IxtNSCYOWck?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 14: Better Zombie Movement - YouTube
+########:https://www.youtube.com/embed/4KJjLqowym0?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 6: Rotating Player Sprite - YouTube
+########:https://www.youtube.com/embed/5M_-cJP5rk8?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 12: Powerups - YouTube
+########:https://www.youtube.com/embed/z6h6l1yJ5-w?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 9: Using Spritesheets - YouTube
+########:https://www.youtube.com/embed/mBC5VqxnFLA?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 2: Collisions and Tilemap - YouTube
+########:https://www.youtube.com/embed/ajR4BZBKTr4?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 16: Items - YouTube
+########:https://www.youtube.com/embed/IZgSacaiFXU?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 7: Splash & End Screens - YouTube
+########:https://www.youtube.com/embed/rLrMPg-GCqo?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Game Development 1-1: Getting Started with Pygame - YouTube
+########:https://www.youtube.com/embed/VO8rTszcW4s?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 14: Sound and Music - YouTube
+########:https://www.youtube.com/embed/bgy_cHYnhjY?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 5: Improved Collisions - YouTube
+########:https://www.youtube.com/embed/_y5U8tB36Vk?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 7: Score (and Drawing Text) - YouTube
+########:https://www.youtube.com/embed/U8yyrpuplwc?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 2: Player Movement - YouTube
+########:https://www.youtube.com/embed/8LRI0RLKyt0?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 6: Game Over - YouTube
+########:https://www.youtube.com/embed/BKtiVKNsOYk?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Game Development 1-3: More About Sprites - YouTube
+########:https://www.youtube.com/embed/fcryHcZE_sM?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 4: Adding Graphics - YouTube
+########:https://www.youtube.com/embed/mOckdKp3V38?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 5: Scrolling the Window - YouTube
+########:https://www.youtube.com/embed/OmlQ0XCvIn0?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 21: Damage Effect - YouTube
+########:https://www.youtube.com/embed/0ctJV0EPbuc?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 1: Player Sprite and Controls - YouTube
+########:https://www.youtube.com/embed/nGufy7weyGY?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 13: Map Obstacles - YouTube
+########:https://www.youtube.com/embed/vIT7P-RPJNo?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 9: Shields - YouTube
+########:https://www.youtube.com/embed/vvgWfNLgK9c?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 1: Setting up - YouTube
+########:https://www.youtube.com/embed/3UxnelT9aCo?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 4: Jumping - YouTube
+########:https://www.youtube.com/embed/G8pYfkIajE8?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 11: Character Animation (part 2) - YouTube
+########:https://www.youtube.com/embed/n4TQfKt4wpQ?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 4: Scrolling Map / Camera - YouTube
+########:https://www.youtube.com/embed/3zV2ewk-IGU?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 15: Powerups - YouTube
+########:https://www.youtube.com/embed/kCnAhasA1bs?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 6: Sprite Animation - YouTube
+########:https://www.youtube.com/embed/3Bk-Ny7WLzE?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 17: Tweening/Easing Animations - YouTube
+########:https://www.youtube.com/embed/5WWvqOgQTcY?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 11: Player Lives - YouTube
+########:https://www.youtube.com/embed/G5-4nV6LxgU?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 20: More Weapons - YouTube
+########:https://www.youtube.com/embed/xIcDqw35rz8?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 3: Gravity and Platforms - YouTube
+########:https://www.youtube.com/embed/pN9pBx5ln40?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 18: Scrolling Background - YouTube
+########:https://www.youtube.com/embed/i0PaigPo6KM?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 19: Wrapping Up - YouTube
+########:https://www.youtube.com/embed/-9bjlpaVQAA?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 8: Sound and Music - YouTube
+########:https://www.youtube.com/embed/abm1VwFxv9o?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 13: Improved Jumping - YouTube
+########:https://www.youtube.com/embed/9S7fWevICtY?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 12: Loading Tiled Maps - YouTube
+########:https://www.youtube.com/embed/QIXyj3WeyZM?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 9: Basic Shooting - YouTube
+########:https://www.youtube.com/embed/YfWh0WtwuWE?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 3: Smooth Movement - YouTube
+########:https://www.youtube.com/embed/pA7OABYHNDY?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 5: Player Graphics - YouTube
+########:https://www.youtube.com/embed/FVLRUmkV27Q?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 10: Player and Mob Health - YouTube
+########:https://www.youtube.com/embed/-9bXcSjuN28?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 18: Sound Effects - YouTube
+########:https://www.youtube.com/embed/vzJ0WG2LSYw?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 13: Powerups (part 2) - YouTube
+########:https://www.youtube.com/embed/y2w-116htIQ?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 10: Explosions - YouTube
+########:https://www.youtube.com/embed/AdG_ITCFHDI?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 15: Simple Visual Effects (and a bug fix!) - YouTube
+########:https://www.youtube.com/embed/ZapYMuV8f1g?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Game Development 1-2: Working with Sprites - YouTube
+########:https://www.youtube.com/embed/Eltz-XJMxuU?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 17: Using Collision Masks - YouTube
+########:https://www.youtube.com/embed/Dspz3kaTKUg?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 10: Character Animation (part 1) - YouTube
+########:https://www.youtube.com/embed/kuVsKUuVOwc?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 8: Saving High Score - YouTube
+########:https://www.youtube.com/embed/MFv1Ew_nGG0?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 12: Platform Graphics - YouTube
+########:https://www.youtube.com/embed/qnUVjACD3WM?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 22: Game Over - YouTube
+########:https://www.youtube.com/embed/DZYY9hCOxLQ?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 3: Collisions (and Bullets!) - YouTube
+########:https://www.youtube.com/embed/33g62PpFwsE?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 2: Enemy Sprites - YouTube
+########:https://www.youtube.com/embed/-5GNbL33hz0?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 8: Mob Movement - YouTube
+########:https://www.youtube.com/embed/SAbxZDBJX4E?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 7: Mobs - YouTube
+########:https://www.youtube.com/embed/gbRAqFl21SA?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 1: Setting Up - YouTube
+########:https://www.youtube.com/embed/uWvb3QzA48c?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 11: Tiled Map Editor - YouTube
+########:https://www.youtube.com/embed/Mr5l4U9S4kI?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 14: Game Over Screen - YouTube
+########:https://www.youtube.com/embed/Z2K2Yttvr5g?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 19: Pause Screen - YouTube
+########:https://www.youtube.com/embed/MJ2GLVA7kaU?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 16: Enemies - YouTube
+########:https://www.youtube.com/embed/IxtNSCYOWck?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 14: Better Zombie Movement - YouTube
+########:https://www.youtube.com/embed/4KJjLqowym0?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 6: Rotating Player Sprite - YouTube
+########:https://www.youtube.com/embed/5M_-cJP5rk8?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 12: Powerups - YouTube
+########:https://www.youtube.com/embed/z6h6l1yJ5-w?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 9: Using Spritesheets - YouTube
+########:https://www.youtube.com/embed/mBC5VqxnFLA?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 2: Collisions and Tilemap - YouTube
+########:https://www.youtube.com/embed/ajR4BZBKTr4?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 16: Items - YouTube
+########:https://www.youtube.com/embed/IZgSacaiFXU?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 7: Splash & End Screens - YouTube
+########:https://www.youtube.com/embed/rLrMPg-GCqo?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Game Development 1-1: Getting Started with Pygame - YouTube
+########:https://www.youtube.com/embed/VO8rTszcW4s?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 14: Sound and Music - YouTube
+########:https://www.youtube.com/embed/bgy_cHYnhjY?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 5: Improved Collisions - YouTube
+########:https://www.youtube.com/embed/_y5U8tB36Vk?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 7: Score (and Drawing Text) - YouTube
+########:https://www.youtube.com/embed/U8yyrpuplwc?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 2: Player Movement - YouTube
+########:https://www.youtube.com/embed/8LRI0RLKyt0?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 6: Game Over - YouTube
+########:https://www.youtube.com/embed/BKtiVKNsOYk?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Game Development 1-3: More About Sprites - YouTube
+########:https://www.youtube.com/embed/fcryHcZE_sM?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 4: Adding Graphics - YouTube
+########:https://www.youtube.com/embed/mOckdKp3V38?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Platformer Part 5: Scrolling the Window - YouTube
+########:https://www.youtube.com/embed/OmlQ0XCvIn0?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Tile-based game Part 21: Damage Effect - YouTube
+########:https://www.youtube.com/embed/0ctJV0EPbuc?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
+Pygame Shmup Part 1: Player Sprite and Controls - YouTube
+########:https://www.youtube.com/embed/nGufy7weyGY?list=PLsk-HSGFjnaH5yghzu7PcOzm9NhsW0Urw
+
